@@ -7,6 +7,7 @@
 
 - [Инструменты для разработки](https://github.com/pfrankov/awesome-vibecoders#Инструменты)
 - [Эффективность](https://github.com/pfrankov/awesome-vibecoders#Эффективность)
+- [Браузерные расширения](https://github.com/pfrankov/awesome-vibecoders#Браузерные-расширения)
 
 ## Инструменты для разработки
 
@@ -53,9 +54,7 @@ https://github.com/user-attachments/assets/b108df90-f456-4482-850e-17523afe10d2
 
 Расширение для Chrome: локальный Ollama на любой странице — оверлей (Cmd/Ctrl+K) и контекстное меню. Поддерживает суммаризацию страниц, вопросы по выделенному тексту и TL;DR; потоковые ответы, выбор модели Ollama, свои пресеты/промпты и настройку параметров (temperature, top‑p).
 
-<p>
-  <img width="700" alt="Ollamassistant screenshot" src="https://github.com/user-attachments/assets/2fbe67d2-280c-4443-bfc1-ab2af7046e2e" />
-</p>
+<img width="700" alt="Ollamassistant screenshot" src="https://github.com/user-attachments/assets/2fbe67d2-280c-4443-bfc1-ab2af7046e2e"/>
 
 ## Как добавить проект в список
 
@@ -66,4 +65,4 @@ https://github.com/user-attachments/assets/b108df90-f456-4482-850e-17523afe10d2
 
 ## Лицензия
 
-CC0 — другими словами MIT, но из мира текстов. Однако любые ссылки на этот список приветствуются.
+CC0 — другими словами MIT, но из мира текстов. Однако любые ссылки на этот список присветствуются.
