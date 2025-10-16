@@ -5,11 +5,10 @@
 
 ## Категории
 
-- [Инструменты для разработки](https://github.com/pfrankov/awesome-vibecoders#Инструменты)
-- [Эффективность](https://github.com/pfrankov/awesome-vibecoders#Эффективность)
+- [VS Code расширения](https://github.com/pfrankov/awesome-vibecoders#VS-Code-расширения)
+- [Плагины для Obsidian](https://github.com/pfrankov/awesome-vibecoders#Плагины-для-Obsidian)
 - [Браузерные расширения](https://github.com/pfrankov/awesome-vibecoders#Браузерные-расширения)
-
-## Инструменты для разработки
+- [Терминальные утилиты](https://github.com/pfrankov/awesome-vibecoders#Терминальные-утилиты)
 
 ### VS Code расширения
 
@@ -18,8 +17,6 @@
 MCP-сервер, который может управлять самим VS Code: выполнить команды во встроенном терминале или получить данные о последнем прогоне линтеров. Бонусом идёт возможность уточнить у пользователя реализацию перед написанием кода.
 
 https://github.com/user-attachments/assets/b108df90-f456-4482-850e-17523afe10d2
-
-## Эффективность
 
 ### Плагины для Obsidian
 
@@ -55,6 +52,23 @@ https://github.com/user-attachments/assets/b108df90-f456-4482-850e-17523afe10d2
 Расширение для Chrome: локальный Ollama на любой странице — оверлей (Cmd/Ctrl+K) и контекстное меню. Поддерживает суммаризацию страниц, вопросы по выделенному тексту и TL;DR; потоковые ответы, выбор модели Ollama, свои пресеты/промпты и настройку параметров (temperature, top‑p).
 
 <img width="700" alt="Ollamassistant screenshot" src="https://github.com/user-attachments/assets/2fbe67d2-280c-4443-bfc1-ab2af7046e2e"/>
+
+### Терминальный утилиты
+
+#### [Mdv](https://github.com/WhoSowSee/mdv) <!-- WhoSowSee -->
+
+Mdv — утилита командной строки на Rust, которая рендерит Markdown прямо в терминале с точным соблюдением форматирования и подсветкой синтаксиса. Пользователь может настраивать ширину вывода, стратегию переносов, оформление таблиц и поведение ссылок, а также выбирать тему или мгновенно переопределять цвета. Программа работает как с файлами, так и с потоками stdin, поддерживает экспорт в HTML и режим мониторинга для автоматического обновления отображения при сохранении. Благодаря богатому CLI-интерфейсу mdv легко интегрируется в скрипты и рабочие процессы разработчиков, которым нужен быстрый предпросмотр Markdown без выхода из терминала.
+
+![theme_tokyonight_1](https://github.com/user-attachments/assets/5b68b97f-be40-4c30-81e6-0bbd5510e2e6)
+
+<details>
+  <summary><bold>Full preview</bold></summary>
+  
+  ![theme_tokyonight_1](https://github.com/user-attachments/assets/5b68b97f-be40-4c30-81e6-0bbd5510e2e6)
+  ![theme_tokyonight_2](https://github.com/user-attachments/assets/0c7aee02-902d-4a1d-a3cd-656964622f4d)
+  ![theme_tokyonight_3](https://github.com/user-attachments/assets/98fc30dc-18be-4fd6-b897-d4851e7a33ee)
+
+</details>
 
 ## Как добавить проект в список
 
